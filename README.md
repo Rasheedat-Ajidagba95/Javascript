@@ -1,2 +1,2 @@
 # Javascript
-This a repo for Javascript practice
+This a repo for Javascript Playground
